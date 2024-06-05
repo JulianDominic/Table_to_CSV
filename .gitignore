@@ -1,4 +1,8 @@
+# Virtual Environment & Unnecessary Python Outputs
 .venv
 __pycache__
+
+# Data/Environment Files/Folders
+.env
 data
 temp
